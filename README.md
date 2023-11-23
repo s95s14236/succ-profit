@@ -1,8 +1,8 @@
 
-報價頁面
+# The stock quotethe the Taiwan stock market
 
-<img width="1512" alt="image" src="https://github.com/s95s14236/succ-profit/assets/43293917/d9045cd5-cdc8-4a2e-bdd3-998e948bca31">
+![quote](https://github.com/s95s14236/succ-profit/assets/43293917/6e9e7572-9adf-49eb-8bc5-775335195fbc)
 
 
-資料來源：台灣證交所
+資料來源：台灣證交所 (TWSE)
 
